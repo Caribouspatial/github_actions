@@ -1,0 +1,9 @@
+{
+  "name": "panier-devsecops",
+  "version": "1.0.0",
+  "description": "Support du TP GitHub Actions - T3041 Gestion de projet avancee",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
